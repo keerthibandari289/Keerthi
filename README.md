@@ -1,6 +1,7 @@
 # Keerthi
-1.gather list of district and visiting places in Andhra Pradesh 
-2.collect list of hospitals near to each
-3.develop a budget estimate ai tracker
-4.scheduler suggestor based on occasion 
+# Gather list of district and visiting places in andhra pradesh
+#Collect list of hospitals near to each
+#develop a budget estimate AI tracker
+#Scsheduler suggestor based on occasion 
+#
 
